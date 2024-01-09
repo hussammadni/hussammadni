@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hussammadni
-- 👀 I’m interested in Front-End Projects and Competitive Programming
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Front-End Projects
+- 👀 I’m interested in Embedded Systems and Firmware Architecture
+- 🌱 I’m currently learning programming on STM32-F4Discovery Board 
+- 💞️ I’m looking to collaborate on projects related to system design
 - 📫 How to reach me hmadni1812@gmail.com
 
 <!---
